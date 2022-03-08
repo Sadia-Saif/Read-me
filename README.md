@@ -36,9 +36,7 @@
 <a href="https://github.com/Sadia-Saif">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Saif&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Sadia-Saif">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sadia-Saif&show_icons=true&theme=light&line_height=27" alt="Sadia's's github stats"/>
-</a>
+
 
 <!---
 Sadia-Saif/Sadia-Saif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
