@@ -24,8 +24,8 @@
 - 💞️ I’m looking to collaborate on flutter community... - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 You may reach me using email address "sadiasaif.official@gmail.com"...
 
-[![Linkedin: Sadia-Saif](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sadia-saif/)
-[![GitHub Sadia-Saif](https://img.shields.io/github/followers/Sadia-Saif?label=follow&style=social)](https://github.com/Sadia-Saif)
+[![Linkedin: Sadia-Saif](https://img.shields.io/badge/-Sadia-Saif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sadia-saif/)
+
 
 <!---
 Sadia-Saif/Sadia-Saif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
