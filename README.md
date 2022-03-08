@@ -41,7 +41,7 @@
 
 </a>
 <a href="https://github.com/Sadia-Saif/mi_card">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-Saif&mi_card&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-Saif&repo=mi_card&theme=light" />
 </a>
 
 <!---
