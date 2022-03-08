@@ -1,6 +1,6 @@
 ## Hola, I'm [Sadia Saif!] 👋
 
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://www.linkedin.com/in/sadia-saif/">
   <img align="left" alt="Sadia's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Sadia-Saif">
@@ -21,9 +21,11 @@
 - 👋 Hi, I’m @Sadia-Saif
 - 👀 I’m currently working as a Flutter Developer ...
 - 🌱 I’m currently learning  more about Machine Learning....
-- 💞️ I’m looking to collaborate on flutter community...
+- 💞️ I’m looking to collaborate on flutter community... - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 You may reach me using email address "sadiasaif.official@gmail.com"...
 
+[![Linkedin: Sadia-Saif](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/sadia-saif/)
+[![GitHub Sadia-Saif](https://img.shields.io/github/followers/Sadia-Saif?label=follow&style=social)](https://github.com/Sadia-Saif)
 
 <!---
 Sadia-Saif/Sadia-Saif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
