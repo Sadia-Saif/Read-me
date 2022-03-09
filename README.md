@@ -46,9 +46,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-Saif&repo=Flutter-Course-Resources&theme=light" />
 </a>
 </a>
-<a href="https://github.com/Sadia-Saif/mi_card/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-Saif&repo=mi_card&theme=light" />
-</a>
+
 
 <!---
 Sadia-Saif/Sadia-Saif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
