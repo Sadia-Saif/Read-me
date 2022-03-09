@@ -49,8 +49,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sadia-Saif&repo=Flutter-Course-Resources&theme=light" />
 </a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sadia-saif" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sadia-saif?trk=profile-badge">Sadia Saif</a>
-</div>
+
               
 
 
